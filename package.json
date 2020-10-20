@@ -13,7 +13,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "http://github.com/testrepo"
+    "url": "https://github.com/macrografi/colored-grid.git"
   },
   "devDependencies": {
     "browser-sync": "^2.26.12",

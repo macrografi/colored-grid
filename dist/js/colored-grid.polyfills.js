@@ -3,7 +3,7 @@
  * Grid Plug-in
  * (c) 2020 Cenk Özkan
  * ISC License
- * http://github.com/testrepo
+ * https://github.com/macrografi/colored-grid.git
  */
 
 /*
